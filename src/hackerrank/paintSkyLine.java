@@ -1,7 +1,7 @@
 package hackerrank;
 
 public class paintSkyLine {
-	
+
 	public static void main(String[] args) {
 		int arr[] = {1,3,2,1,2,1,5,3,3,4,2};
 		System.out.println("Num of stroke: "+computeBrushStrokes(arr));
