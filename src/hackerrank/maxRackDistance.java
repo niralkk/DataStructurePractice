@@ -1,11 +1,6 @@
 package hackerrank;
 
 import java.util.Arrays;
-//Finding the Minimum Window in S which Contains All Elements from T
-//https://stackoverflow.com/questions/5447561/find-shortest-subarray-containing-all-elements/5447601#5447601
-// https://books.google.com/books?id=y6FLBQAAQBAJ&pg=PA219&dq=smallest+subarray+sequentially+covering+all+values&hl=en&sa=X&ved=0ahUKEwjYit7Swe_YAhVG82MKHYvUDl4Q6AEIKDAA#v=onepage&q=smallest%20subarray%20sequentially%20covering%20all%20values&f=true
-import java.util.HashMap;
-import java.util.HashSet;
 
 public class maxRackDistance {
 	
