@@ -6,7 +6,7 @@ package hackerrank;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class coverLocation {
+public class minVacationDays {
 	
 	public static void main(String[] args) {
 		int arr[] = {-24,5,5,7,3,7,3,1,3,4,1};
