@@ -9,6 +9,7 @@ public class BinarySearchTree {
     }
 
     public void insert(int data) {
+
         root = insertRecord(root, data);
     }
 
